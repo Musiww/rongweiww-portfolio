@@ -24,10 +24,10 @@
 }
 
 /* ========================================
-   AWS Image Studio Preview
+    AWS Image Studio Preview
    ======================================== */
 
-   .aws-studio-art {
+  .aws-studio-art {
     background: #dce9e5;
     padding: 48px 36px;
     display: flex;
